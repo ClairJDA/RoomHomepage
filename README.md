@@ -9,7 +9,6 @@ This is a solution to the [Room homepage challenge on Frontend Mentor](https://w
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
 
 ## Overview
 
@@ -27,15 +26,10 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [here](https://your-live-site-url.com)
+- Live Site URL: [here](https://room-homepage-kappa-gules.vercel.app/)
 
 ### Built with
 
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Tailwind](https://tailwindcss.com/) - Tailwind CSS Framework
